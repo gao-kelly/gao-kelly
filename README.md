@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/1234567?v=4" width="150" height="150">
+  <img src="https://avatars.githubusercontent.com/u/gao-kelly?v=4" width="150" height="150">
 </p>
 
 <h1 align="center">Hi there, I'm Kelly! 👋 </h1>
@@ -16,9 +16,9 @@
 
 ## 🚀 What I'm Working On
 
-- [ ] Learning about machine learning algorithms for market prediction
-- [ ] Working on a data science project
-- [ ] Attending data science meetups and events
+- [ ] Tokentell: Learning about machine learning algorithms for blockchain market prediction
+- [ ] ICOLT: Working on a data science project for NLP-based storytelling
+- [x] Attending data science meetups and events
 
 ## 🔍 What I'm Learning
 
