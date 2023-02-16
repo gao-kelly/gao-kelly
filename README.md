@@ -11,11 +11,6 @@
   </a>
 </p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-
-
 ## 🚀 What I'm Working On
 
 - [ ] Tokentell: Learning about machine learning algorithms for blockchain market prediction
