@@ -15,7 +15,7 @@
 
 - [ ] Tokentell: Learning about machine learning algorithms for blockchain market prediction
 - [ ] ICOLT: Working on a data science project for NLP-based storytelling
-- [x] Attending data science meetups and events
+- [x] Attending meetups and events for data science enthusiasts and related fields
 
 ## 🔍 What I'm Learning
 
