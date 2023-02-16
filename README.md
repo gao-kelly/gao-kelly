@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/gao-kelly?v=4" width="150" height="150">
-</p>
 
 <h1 align="center">Hi there, I'm Kelly! 👋 </h1>
 
@@ -42,4 +39,4 @@ I'm passionate about using data to gain insights and solve real-world problems. 
 
 <p align="center">
   Made with ❤️ using Gitmojis 🚀
-</p>## 
+</p>
