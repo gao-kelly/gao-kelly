@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="[logo](https://user-images.githubusercontent.com/101918739/219254618-935733c8-e9fc-40d6-8d8a-a8b397d2e6ef.PNG)" width="150" height="150">
+</p>
 <h1 align="center">Hi there, I'm Kelly! 👋 </h1>
 
 <p align="center">
