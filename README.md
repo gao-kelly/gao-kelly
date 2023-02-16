@@ -13,8 +13,8 @@
 
 ## 🚀 What I'm Working On
 
-- [ ] Tokentell: Learning about machine learning algorithms for blockchain market prediction
-- [ ] ICOLT: Working on a data science project for NLP-based storytelling
+- [ ] Machine learning for blockchain market prediction
+- [ ] ICOLT: NLP-based storytelling
 - [x] Attending meetups and events for data science enthusiasts and related fields
 
 ## 🔍 What I'm Learning
