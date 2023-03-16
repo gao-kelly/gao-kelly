@@ -34,9 +34,9 @@ I'm passionate about using data to gain insights and solve real-world problems. 
 
 ## 📈 Stats
 
-[![Kelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=gao-kelly&count_private=true&show_icons=true&theme=radical)](https://github.com/gao-kelly/github-readme-stats)
+[![Kelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=miuponn&count_private=true&show_icons=true&theme=radical)](https://github.com/miuponn/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gao-kelly&layout=compact&theme=vision-friendly-dark)](https://github.com/gao-kelly/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miuponn&layout=compact&theme=vision-friendly-dark)](https://github.com/miuponn/github-readme-stats)
 ---
 
 <p align="center">
