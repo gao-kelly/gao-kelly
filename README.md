@@ -14,7 +14,7 @@
 ## 🚀 What I'm Working On
 
 - [ ] Machine learning for blockchain market prediction
-- [ ] ICOLT: NLP-based storytelling
+- [ ] NLP-based storytelling
 - [x] Attending meetups and events for data science enthusiasts and related fields
 
 ## 🔍 What I'm Learning
