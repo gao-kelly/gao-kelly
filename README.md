@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin-url]">
+  <a href="https://www.linkedin.com/in/kellygaocs">
+  <a href="
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[linkedin.com/kellygaoCS]">
   </a>
 </p>
@@ -14,8 +15,6 @@
 ## 🚀 What I'm Working On
 
 - [ ] Machine learning for blockchain market prediction
-- [ ] NLP-based storytelling
-- [x] Attending meetups and events for data science enthusiasts and related fields
 
 ## 🔍 What I'm Learning
 
@@ -31,6 +30,7 @@ I'm passionate about using data to gain insights and solve real-world problems. 
 
 - [LinkedIn](https://www.linkedin.com/in/kellygaoCS/)
 - [Email](kellygao@live.ca)
+- [Website](gaokelly.com)
 
 ## 📈 Stats
 
