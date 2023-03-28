@@ -22,6 +22,16 @@
 - Machine learning algorithms and techniques
 - Data visualization with Matplotlib and Seaborn
 
+## 🔨 Skills
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![Boostrap](https://img.shiels.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+
+
+
+
+
+
 ## ❤️ What I Love
 
 I'm passionate about using data to gain insights and solve real-world problems. I'm excited to be studying in a field that has the potential to make a positive impact on society, and I look forward to the challenges and opportunities that lie ahead.
