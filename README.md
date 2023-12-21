@@ -13,7 +13,7 @@
 
 ## 🚀 What I'm Working On
 
-- [ ] Machine learning for blockchain market prediction
+- [ ] x
 
 ## 🔍 What I'm Learning
 
