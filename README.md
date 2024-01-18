@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Kelly! 👋 </h1>
 
 <p align="center">
-  I'm a computer science student at the University of Ottawa interested in data science and machine learning. Check out my website! 
+  I'm a computer science student at the University of Ottawa, a full-stack web developer, data analyst, and full-time cafe hopper.
 </p>
   
 <p align="center">
