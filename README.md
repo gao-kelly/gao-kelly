@@ -13,7 +13,7 @@
 
 ## 🚀 What I'm Working On
 
-- [ ] Kanji Learner API
+- [ ] Kanji Library
 
 ## 🔍 What I'm Learning
 
