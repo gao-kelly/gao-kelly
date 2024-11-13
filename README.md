@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Kelly 👋 </h1>
 
 <p align="center">
-  All things data lover, full-stack developer, and full-time cafe hopper.
+  All things data lover, full-stack developer, and full-time cafe hopper ❤️
 </p>
   
 <p align="center">
