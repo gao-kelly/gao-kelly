@@ -17,8 +17,8 @@
 
 ## 🔍 What I'm Learning
 
-- Tensorflow
-- Graph theory & other fundamentals                                                                                                    
+- 
+-                                                                                                   
 
 ## 🔨 Tech Stack
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat)![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat) ![TimescaleDB](https://img.shields.io/badge/-Timescale-FDB515?logo=timescale&logoColor=white&style=flat) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=pytorch&logoColor=white&style=flat) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat) 
